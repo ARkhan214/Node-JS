@@ -1,0 +1,20 @@
+For Package.json in Project
+npm init -y
+
+For (express mysql2 body-parser cors) dependencies in nodejs project
+npm install express mysql2 body-parser cors
+
+Node.js-এ hot reload বা automatic restart on file change করতে সাধারণত nodemon ব্যবহার করা হয়।
+For Install
+npm install --save-dev nodemon
+npm install -g nodemon
+
+
+For Unistall 
+npm uninstall --save-dev nodemon
+npm uninstall -g nodemon
+
+
+VS code a Auto format (whole file):
+Shift + Alt + F
+
